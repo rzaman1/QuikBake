@@ -389,8 +389,8 @@ p.sub-text{
 
 }
 .navbar-brand img{
-    width:120px;
-    height: 70px;
+    width:100px;
+    height: auto;
 }
 
 /*============================*/
