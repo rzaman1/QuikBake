@@ -371,10 +371,10 @@ p.sub-text{
     background-color: transparent;
 }
 .navbar-brand{
-    font-weight: 2000;
+    font-weight: 700;
     color:#000 !important;
-    font-size: 2000px;
-    line-height: 100px;
+    font-size: 30px;
+    line-height: 20px;
     font-style: normal;
     text-transform: uppercase;
 }
@@ -389,7 +389,7 @@ p.sub-text{
 
 }
 .navbar-brand img{
-    width:80px;
+    width:100px;
     height: auto;
 }
 
