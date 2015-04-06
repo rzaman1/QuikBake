@@ -371,10 +371,10 @@ p.sub-text{
     background-color: transparent;
 }
 .navbar-brand{
-    font-weight: 900;
+    font-weight: 2000;
     color:#000 !important;
-    font-size: 200px;
-    line-height: 10px;
+    font-size: 2000px;
+    line-height: 100px;
     font-style: normal;
     text-transform: uppercase;
 }
