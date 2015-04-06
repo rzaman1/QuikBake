@@ -2295,7 +2295,7 @@ background: #111;
 
 /****fun facts*****/
 .fun-fact-wrap{
-    background: url(../rev-images/slider-1.jpg);
+    background: url(../img/slide-bg.jpg);
     background-repeat: repeat !important;
     padding-top:100px;
     padding-bottom: 70px;
@@ -4488,7 +4488,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
     font-style: normal;
 }
 .fun-facts-bg{
-    background: #29ABE2;
+    background: url(../img/slide-bg.jpg);
 }
 
 /***theme features box***/
