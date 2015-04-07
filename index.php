@@ -131,7 +131,7 @@
                 $send2 = mail($email, $subject2, $autoreply, $headers); 
                 // Displays if the person is able to send the email. 
                 if($send)  {
-                    echo "
+                    echo 
                      <script type='text/javascript'>
                       $('#subscribe').hide();
                     </script>
@@ -150,7 +150,7 @@
                         </div>
                     </div>
                     </div>
-                   ";        
+                   ;        
         }}}
         ?>
 
