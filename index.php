@@ -92,7 +92,7 @@
                         <div id="subscribe">   
                             <h1>The First Online Marketplace <br> Connecting Bakeries with Baked Goods Lovers</h1>
 <span style="text-align: center;">
-              <a href="https://docs.google.com/forms/d/1WHQJp6AdffNtl628qMN6sd93H7wKLCSOFKD0enB2HWE/viewform?usp=send_form" class="btn btn-theme-bg btn-lg" target="_blank">Fill out our survey so we can help YOU!</a>
+              <a href="https://docs.google.com/forms/d/1WHQJp6AdffNtl628qMN6sd93H7wKLCSOFKD0enB2HWE/viewform?usp=send_form" class="btn btn-theme-bg btn-lg" target="_blank">Fill out our survey!</a>
                 </div>
                 </div>
 
