@@ -6,8 +6,7 @@
                 <meta name="viewport" content="width=device-width, initial-scale=1">
                     <title>QuikBake</title>
                     <!-- Adress bar icon -->
-                    
-                    <link rel="icon" type="image/jpg" href="/img/qb_adbar.jpg"/>
+                    <link rel="shortcut icon" type="image/ico" href="favicon.ico"/>
                     <!-- Bootstrap -->
                     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
                         <!-- custom css-->
