@@ -169,7 +169,7 @@
 				                            <!-- Title -->
 				                            <h4>Community</h4>
 				                            <!-- Text -->
-				                            <h6>Share the love with out forum reviews and blog features.</h6>
+				                            <h6>Share the love with our forum reviews and blog features.</h6>
 
 				                </div><!--services col-->
 
