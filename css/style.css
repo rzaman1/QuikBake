@@ -80,7 +80,7 @@ a:focus {
 }
 
 /* Headings */
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6{
     color: #060606;
     font-weight: 700;
     margin: 0;
@@ -92,6 +92,17 @@ h1 {
     line-height: 44px;
     margin: 0 0 44px 0;
 }
+
+h25 {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 3.2em;
+    line-height: 44px;
+    margin: 0 0 44px 0;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
 
 h2 {
     font-size: 2.6em;
@@ -2297,8 +2308,8 @@ background: #111;
 .fun-fact-wrap{
     background: url(../img/slide-bg.jpg);
     background-repeat: repeat !important;
-    padding-top:100px;
-    padding-bottom: 70px;
+    padding-top:120px;
+    padding-bottom: 150px;
 }
 .facts-in{
     text-align: center;
